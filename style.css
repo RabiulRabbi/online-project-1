@@ -35,6 +35,11 @@ p {
     color: white;
 }
 
+#link-btn:hover {
+    padding: 12px 22px;
+    color: wheat;
+}
+
 .half-width img {
     width: 100%;
 }
