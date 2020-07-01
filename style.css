@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.green-text {
+    color: fuchsia;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+p {
+    color: grey;
+}
+
+#link-btn {
+    text-decoration: none;
+    background-image: linear-gradient( orange, purple);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+section {
+    height: 600px;
+}
+
+.dream-section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.experience-section {
+    overflow: hidden;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.container {
+    box-shadow: 5px 5px 30px gray;
+    height: 400px;
+    background-color: white;
+}
+
+#full-stack {
+    border-left: 5px solid red;
+}
+
+h2 {
+    color: salmon;
+    font-size: 18px;
+}
+
+#baby-web {
+    border-left: 5px solid deepskyblue;
+}
+
+.footer-section {
+    background-color: lightgoldenrodyellow;
+}
+
+#copyright {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px;
+}
